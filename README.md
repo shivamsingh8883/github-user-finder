@@ -2,7 +2,7 @@
 
 GitHub profile explorer app to search users and view their repositories with stats.
 
-**Live Demo:** [https://learning-react-a3l7.vercel.app](https://learning-react-a3l7.vercel.app)
+**Live Demo:** [https://github-user-finder-two-nu.vercel.app](https://github-user-finder-two-nu.vercel.app)
 
 ## Features
 - Search any GitHub user by username
@@ -24,4 +24,4 @@ GitHub profile explorer app to search users and view their repositories with sta
 
 ## Contact
 - Email: shivambacheli@gmail.com
-- Portfolio: https://learning-react-nine-lovat.vercel.app
+- Portfolio: https://portfolio-shivam-singh.vercel.app
