@@ -24,5 +24,4 @@ GitHub profile explorer app to search users and view their repositories with sta
 
 ## Contact
 - Email: shivambacheli@gmail.com
-- GitHub: https://github.com/shivamsingh8883
 - Portfolio: https://learning-react-nine-lovat.vercel.app
